@@ -1,0 +1,16 @@
+.container {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+input[type="text"], button {
+    margin: 10px;
+    padding: 5px;
+    width: 80%;
+}
+
+#message {
+    margin-top: 10px;
+    font-weight: bold;
+}
